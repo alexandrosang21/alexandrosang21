@@ -8,7 +8,7 @@ Portfolio: [cv.angelov.gr](https://cv.angelov.gr)
 
 **[island-survival](https://github.com/alexandrosang21/island-survival)** · 3D survival game that runs in the browser. Craft, build, hunt, and survive raid nights. Built with Three.js, Rapier physics and TypeScript. [Play it](https://forest.angelov.gr)
 
-**[lagokefalos-escape](https://github.com/alexandrosang21/lagokefalos-escape)** · Endless lane-runner on the Aegean with a national leaderboard, daily challenges and generated share cards. Next.js, canvas, Drizzle and Postgres.
+**[lagokefalos-escape](https://github.com/alexandrosang21/lagokefalos-escape)** · Endless lane-runner on the Aegean with a national leaderboard, daily challenges and generated share cards. Next.js, canvas, Drizzle and Postgres. [Play it](https://lagokefalos-escape.vercel.app)
 
 **[obistart](https://github.com/alexandrosang21/obistart)** · Minimal, distraction-free browser start page. Next.js 16, React 19 and Tailwind 4. [Try it](https://obistart.vercel.app)
 
@@ -18,4 +18,4 @@ I also work on private projects: an ASO keyword intelligence tool, an expense-sp
 
 TypeScript · React · Next.js · Expo · Astro · Three.js · Tailwind · Node.js · PostgreSQL · Prisma · Docker
 
-Deployments self-hosted on Coolify.
+Deployments on Coolify (self-hosted) and Vercel.
