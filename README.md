@@ -2,6 +2,8 @@
 
 Full-stack developer based in Greece. I build web apps with TypeScript, Next.js, React Native and Astro, plus browser games on the side.
 
+Most of my current work is on private products: an ASO keyword intelligence tool, and an expense-splitting mobile app built on an Expo and Next.js monorepo with code shared across iOS, Android and web. The public repos below are the side projects.
+
 Portfolio and CV: **[cv.angelov.gr](https://cv.angelov.gr)**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -35,14 +37,6 @@ Endless lane-runner on the Aegean with a national leaderboard, a daily seeded ch
 ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)  
 Minimal, distraction-free browser start page with daily goals.
-
-**[projextXgameroom](https://github.com/alexandrosang21/projextXgameroom)**  
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Tone.js](https://img.shields.io/badge/Tone.js-F28C28?style=flat-square)  
-Realtime multiplayer games to play with colleagues (arena fighter, shared piano, tic-tac-toe), all running over one Socket.IO server.
-
-I also work on private projects: an ASO keyword intelligence tool, an expense-splitting mobile app on an Expo and Next.js monorepo, and an AI chatbot builder for Greek businesses.
 
 Deployments on Coolify (self-hosted) and Vercel.
 
